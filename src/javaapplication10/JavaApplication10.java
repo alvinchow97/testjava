@@ -20,6 +20,7 @@ public class JavaApplication10 {
        bigTotal =bigTotal.setScale(3, BigDecimal.ROUND_HALF_UP);
        out.println("total = " + bigTotal);
        out.println("Testing");
+       out.println("Hello");
     }
     
 }
